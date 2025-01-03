@@ -1,9 +1,11 @@
 # Projects
 
 
-## Salvando alterações no Git
-comando git push
-comando git
+## Salvando alterações
+*comando git push
+
+*comando git pull
+
 
 ```
 Criado por Yasmin Nohra

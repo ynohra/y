@@ -7,4 +7,5 @@ Criado por Yasmin Nohra
 
 ```
 *comando git push
+*comando git pull
 
